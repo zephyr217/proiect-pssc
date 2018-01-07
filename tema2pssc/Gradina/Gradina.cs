@@ -4,6 +4,9 @@ using System.Diagnostics.Contracts;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Evenimente.Gradina;
+
+
 
 namespace Models.Gradina
 {
@@ -16,13 +19,15 @@ namespace Models.Gradina
         public Flori Flori { get; internal set; }
         public Legume Legume { get; internal set; }
         public Pomi Pomi { get; internal set; }
+        public MagistralaEvenimente magistrala;
 
-        internal Gradina(int nrLocatie)
+        internal Gradina(int nrLocatie, MagistralaEvenimente magistrala)
         {
             this.nrLocatie = nrLocatie;
             Flori = new Flori();
             Legume = new Legume();
             Pomi = new Pomi();
+            this.magistrala = magistrala;
         }
 
         public void AdaugaFloare(string nume, string culoare, int numar)

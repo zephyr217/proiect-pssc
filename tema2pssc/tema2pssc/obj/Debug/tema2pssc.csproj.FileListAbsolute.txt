@@ -21,3 +21,30 @@ C:\Users\Oana\Documents\Visual Studio 2017\Projects\tema2pssc\tema2pssc\bin\Debu
 C:\Users\Oana\Documents\Visual Studio 2017\Projects\tema2pssc\tema2pssc\bin\Debug\Mono.Cecil.Rocks.dll
 C:\Users\Oana\Documents\Visual Studio 2017\Projects\tema2pssc\tema2pssc\bin\Debug\nunit.framework.dll
 C:\Users\Oana\Documents\Visual Studio 2017\Projects\tema2pssc\tema2pssc\bin\Debug\nunit.framework.xml
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\tema2pssc.exe.config
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\nunit.engine.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\nunit.engine.api.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Mono.Cecil.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\tema2pssc.exe
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\tema2pssc.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Models.Generic.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Models.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\nunit.framework.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Repositories.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Services.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Repositories.Gradina.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Models.Gradina.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Models.Generic.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Services.Gradina.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\nunit.framework.xml
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\obj\Debug\tema2pssc.csprojResolveAssemblyReference.cache
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\obj\Debug\tema2pssc.exe
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\obj\Debug\tema2pssc.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Evenimente.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\Evenimente.Gradina.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\GradinaDatabase.mdf
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\tema2pssc\bin\Debug\GradinaDatabase_log.ldf

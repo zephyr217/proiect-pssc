@@ -1,0 +1,5 @@
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\Evenimente.Gradina\bin\Debug\Evenimente.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\Evenimente.Gradina\bin\Debug\Evenimente.Gradina.pdb
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\Evenimente.Gradina\obj\Debug\Evenimente.Gradina.csprojResolveAssemblyReference.cache
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\Evenimente.Gradina\obj\Debug\Evenimente.Gradina.dll
+C:\Users\RobertStefan\Documents\GitHub\PSSC-2017\Muscaliuc_Robert\Proiect\proiect-pssc\tema2pssc\Evenimente.Gradina\obj\Debug\Evenimente.Gradina.pdb
